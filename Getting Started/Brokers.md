@@ -3,7 +3,7 @@
 ## Broker Instructions
 
 - [Using RabbitMQ]()
-- [Using Redis]()
+- [Using Redis](https://github.com/teachmesomething2580/Celery-ko/blob/master/Getting%20Started/Brokers/Using%20Redis.md)
 - [Using Amazon SQS]()
 
 ## Broker Overview
