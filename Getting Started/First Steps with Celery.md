@@ -13,8 +13,8 @@
 
 ## 문서의 목차
 
-- [Choosing a Broker]()
-	- [RabbitMQ]()
+- [Choosing a Broker](#Choosing a Broker)
+	- [RabbitMQ](#RabbitMQ)
 	- [Redis]()
 	- [Other brokers]()
 - [Installing Celery]()
@@ -51,7 +51,7 @@
 ### Redis
 
 `Redis`는 기능이 완벽하지만 급격한 종류, 전원 장애시 데이터 손실에 보다 취약하다.
-더 자세한 내용은: [Using Redis]()
+더 자세한 내용은: [Using Redis](https://github.com/teachmesomething2580/Celery-ko/blob/master/Getting%20Started/Brokers/Using%20Redis.md)
 
 ### Other brokers
 
