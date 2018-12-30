@@ -32,7 +32,7 @@
 
 `Celery`를 처음 사용하는 경우이거나 3.1 버전에서 개발을 계속하지 않고 이전 버전에서 제공하는 경우, `getting started tutorial`을 읽어야한다.
 
-- [First Steps with Celery]()
+- [First Steps with Celery](https://github.com/teachmesomething2580/Celery-ko/blob/master/Getting%20Started/First%20Steps%20with%20Celery.md)
 - [Next Steps]()
 
 ## 샐러리는..
